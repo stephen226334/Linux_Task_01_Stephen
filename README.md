@@ -26,11 +26,11 @@ The objective of this task is to gain hands-on experience with the Linux operati
 
 ### Terminal Window
 
-![Terminal Window](Screenshots/02_Terminal_Window.png)
+![Terminal Window](Screenshots/screenshots6.jpeg)
 
 ### System Information
 
-![System Information](Screenshots/03_System_Information.png)
+![System Information](Screenshots/screenshots7.jpeg)
 
 ---
 
@@ -51,7 +51,7 @@ The following commands were executed and verified:
 
 ### Navigation Commands Output
 
-![Navigation Commands](Screenshots/04_Navigation_Commands.png)
+![Navigation Commands](Screenshots/screenshots1.png)
 
 ---
 
@@ -71,7 +71,7 @@ CyberSecurity_Lab
 
 ### Folder Structure Screenshot
 
-![Folder Structure](Screenshots/05_Folder_Structure.png)
+![Folder Structure](Screenshots/screenshots3.png)
 
 ---
 
@@ -111,11 +111,6 @@ mv commands.txt ../Networking/
 rm notes_copy.txt
 ```
 
-### File Management Screenshot
-
-![File Management](Screenshots/screenshots3.png)
-
-
 ---
 
 # Part E: System Information Collection
@@ -133,7 +128,7 @@ pwd
 
 ### System Information Output
 
-![System Information Output](Screenshots/09_System_Info_Output.png)
+![System Information Output](Screenshots/screenshots2.png)
 
 ---
 
