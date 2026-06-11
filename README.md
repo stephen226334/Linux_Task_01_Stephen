@@ -22,7 +22,7 @@ The objective of this task is to gain hands-on experience with the Linux operati
 
 ### Kali Linux Desktop
 
-![Kali Desktop](Screenshots/sceenshots1.png)
+![Kali Desktop](Screenshots/screenshots4.png)
 
 ### Terminal Window
 
